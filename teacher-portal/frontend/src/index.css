@@ -1,0 +1,11 @@
+.card {
+  border-radius: 10px !important;
+  margin-top: -50px; /* Adjust to reduce space further */
+}
+
+@media (max-width: 768px) {
+  .w-md-50 {
+    width: 90% !important;
+  }
+}
+
